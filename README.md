@@ -1,10 +1,22 @@
 # react-portfolio
 
-A single page app portfolio using React + Vite + Tailwind CSS
+## Table of Contents
 
-# Usage
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing Guidelines](#contributing-guidelines)
+- [Testing](#testing)
+- [Authors and Acknowledgements](#authors-and-acknowledgements)
 
-```
+## Description
+
+A single page app of a personal website and portfolio using React + Vite + Tailwind CSS
+
+# Installation
+
+``` zsh
 npm create vite@latest react-portfolio
 
 select a framework: > React
@@ -58,5 +70,38 @@ in App.js check if tailwind is working
   )
 }
 
-``` bash
+npm install react-router-dom
+
+npm install @tailwindcss/forms
+
+npm install @tailwindcss/line-clamp
+
+```
+
+## Usage
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contributing Guidelines
+
+Create a new branch for the commit and start a pull request.
+
+## Testing
+
+## Authors and Acknowledgements
+
+[email] (ginadrcoder@gmail.com)
+
+
+## Questions
+
+For enquiries, please contact me at:
+
+[email] (ginadrcoder@gmail.com)
+[github] (https://github.com/gina-t)
+
+
+
 
