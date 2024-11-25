@@ -43,7 +43,7 @@ const ResumePage = () => {
                     </div>
                   </div>
                   <div className="ml-4 shrink-0">
-                    <a href="#" className="font-medium text-indigo-400 hover:text-indigo-300">
+                    <a href="ftp://u883134181@92.112.182.58/.filebrowser/cv-2024.pdf" className="font-medium text-indigo-400 hover:text-indigo-300">
                       Download
                     </a>
                   </div>
