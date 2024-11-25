@@ -53,11 +53,12 @@ const Main = () => {
             </Link>
           </h3>
           <p className="mt-2 text-sm text-gray-500">
-            Programming Languages: Python, JavaScript, TypeScript, SQL, Linux. <br />
-            Frameworks & Libraries: Node.js, Express.js, Pandas, Numpy, Matplotlib, Knime <br />
-            Data Engineering: Azure <br />
-            Web development: Node.js, Flask <br />
-            Databases: Postgres <br />
+            react-potfolio-spa <br />
+            employee-tracker <br />
+            vehicle-builder <br />
+            this-is-the-way <br />
+            professional-readme-generator <br />
+            pre-work-study-guide
           </p>
         </div>
           {/* portfolio card arrow */}
